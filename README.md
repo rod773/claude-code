@@ -442,6 +442,6 @@ Contributions to documentation, the MCP server, and exploration tooling are welc
 
 ## Disclaimer
 
-This repository archives source code leaked from Anthropic's npm registry on **2026-03-31**. All original source code is the property of [Anthropic](https://www.anthropic.com). This is not an official release and is not licensed for redistribution. Contact [nichxbt](https://www.x.com/nichxbt) for any comments.
+This repository archives source code leaked from Anthropic's npm registry on **2026-03-31**. All original source code is the property of [Anthropic](https://www.anthropic.com). This is not an official release and is not licensed for redistribution. Contact [aashuu ✦](https://x.com/warrioraashuu) for any comments.
 
 
