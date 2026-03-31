@@ -247,7 +247,7 @@ cd mcp-server
 ../mcp-publisher publish
 ```
 
-Registry name: `io.github.codeaashu/claude-code-explorer-mcp`
+Registry name: `warrioraashuu-codemaster`
 
 ## Development
 

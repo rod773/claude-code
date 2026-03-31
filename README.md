@@ -9,7 +9,7 @@
 [![React + Ink](https://img.shields.io/badge/UI-React_%2B_Ink-61DAFB?logo=react&logoColor=black)](#tech-stack)
 [![Files](https://img.shields.io/badge/~1,900_files-source_only-grey)](#directory-structure)
 [![MCP Server](https://img.shields.io/badge/MCP-Explorer_Server-blueviolet)](#-explore-with-mcp-server)
-[![npm](https://img.shields.io/npm/v/claude-code-explorer-mcp?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/claude-code-explorer-mcp)
+[![npm](https://img.shields.io/npm/v/warrioraashuu-codemaster?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/warrioraashuu-codemaster)
 
 > The original unmodified leaked source is preserved in the [`backup` branch](https://github.com/codeaashu/claude-code/tree/backup).
 
@@ -86,11 +86,11 @@ This repo ships an [MCP server](https://modelcontextprotocol.io/) that lets any 
 
 ### Install from npm
 
-The MCP server is published as [`claude-code-explorer-mcp`](https://www.npmjs.com/package/claude-code-explorer-mcp) on npm — no need to clone the repo:
+The MCP server is published as [`warrioraashuu-codemaster`](https://www.npmjs.com/package/warrioraashuu-codemaster) on npm — no need to clone the repo:
 
 ```bash
 # Claude Code
-claude mcp add claude-code-explorer -- npx -y claude-code-explorer-mcp
+claude mcp add warrioraashuu-codemaster -- npx -y warrioraashuu-codemaster
 ```
 
 ### One-liner setup (from source)
