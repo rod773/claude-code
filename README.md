@@ -20,16 +20,13 @@
 <div align="center">
 <table>
 <tr>
-  Spend less time reading code, more time building.
+<h2>Spend less time reading code, more time building.</h2>
 <td width="120" align="center">
-
 <img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/>
-
 </td>
 <td>
 <h2>Understand Any Codebase<br>X-Ray Any Repo, in Seconds.</h2>
-
-<a href="https://repoxray.devdisplay.org/"><strong>✦ repoxray.devdisplay.org ✦</strong></a>
+<a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a>
 
 </td>
 </tr>
