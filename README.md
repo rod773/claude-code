@@ -21,7 +21,7 @@
 <table>
 <tr>
   
-`Spend less time reading code, more time building.`
+`Spend less time reading code, more time building.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" />`
   
 <td width="120" align="center">
 <img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/>
