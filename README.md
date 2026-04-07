@@ -18,6 +18,29 @@
 
 ---
 
+<table>
+<tr>
+<td width="120" align="center">
+
+<img src=".'./logo.png" width="80" height="80" alt="RepoXray Logo"/>
+
+</td>
+<td>
+
+### Understand Any Codebase  
+### X-Ray Any Repo, in Seconds.
+
+AI-powered architectural clarity for developers.  
+Spend less time reading code, more time building.
+
+🔗 https://repoxray.devdisplay.org
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Table of Contents
 
 - [How It Leaked](#how-it-leaked)
