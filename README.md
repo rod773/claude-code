@@ -21,7 +21,7 @@
 <table>
 <tr>
 <td width="120" align="center">
-
+Spend less time reading code, more time building.
 <img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/>
 
 </td>
@@ -29,9 +29,6 @@
 
 ### Understand Any Codebase  
 ### X-Ray Any Repo, in Seconds.
-
-AI-powered architectural clarity for developers.  
-Spend less time reading code, more time building.
 
 🔗 https://repoxray.devdisplay.org
 
