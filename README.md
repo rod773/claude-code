@@ -20,8 +20,9 @@
 
 <table>
 <tr>
+  Spend less time reading code, more time building.
 <td width="120" align="center">
-Spend less time reading code, more time building.
+
 <img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/>
 
 </td>
@@ -30,7 +31,7 @@ Spend less time reading code, more time building.
 ### Understand Any Codebase  
 ### X-Ray Any Repo, in Seconds.
 
-🔗 https://repoxray.devdisplay.org
+<a href="https://repoxray.devdisplay.org/"><strong>✦ repoxray.devdisplay.org ✦</strong></a>
 
 </td>
 </tr>
