@@ -25,12 +25,11 @@
   
 <td width="120" align="center">
 <img src="https://repoxray.devdisplay.org/logo.png" width="80" height="80" alt="RepoXray Logo"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Right.webp" alt="Backhand Index Pointing Right" width="25" height="25" />
 </td>
 <td>
 <h2 align="center">Understand Any Codebase<br>X-Ray Any Repo, in Seconds.<br>
 <a href="https://repoxray.devdisplay.org/"><strong>repoxray.devdisplay.org</strong></a></h2>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Up.webp" alt="Backhand Index Pointing Up" width="25" height="25" />
 </td>
 </tr>
 </table>
