@@ -17,7 +17,7 @@
 </div>
 
 ---
-
+<div align="center">
 <table>
 <tr>
   Spend less time reading code, more time building.
@@ -27,15 +27,14 @@
 
 </td>
 <td>
-
-### Understand Any Codebase  
-### X-Ray Any Repo, in Seconds.
+<h2>Understand Any Codebase<br>X-Ray Any Repo, in Seconds.</h2>
 
 <a href="https://repoxray.devdisplay.org/"><strong>✦ repoxray.devdisplay.org ✦</strong></a>
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
