@@ -297,6 +297,16 @@ export async function getAnthropicClient({
     return new AnthropicVertex(vertexArgs) as unknown as Anthropic
   }
 
+  if (isEnvTruthy(process.env.CLAUDE_CODE_USE_MODELSCOPE)) {
+    const clientConfig: ConstructorParameters<typeof Anthropic>[0] = {
+      apiKey: process.env.ANTHROPIC_API_KEY || apiKey,
+      baseURL: process.env.ANTHROPIC_BASE_URL || 'https://api-inference.modelscope.ai',
+      ...ARGS,
+      ...(isDebugToStdErr() && { logger: createStderrLogger() }),
+    }
+    return new Anthropic(clientConfig)
+  }
+
   // Determine authentication method based on available tokens
   const clientConfig: ConstructorParameters<typeof Anthropic>[0] = {
     apiKey: isClaudeAISubscriber() ? null : apiKey || getAnthropicApiKey(),
