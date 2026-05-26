@@ -431,6 +431,63 @@ Built-in and third-party plugins loaded through the `plugins/` subsystem.
 
 ---
 
+---
+
+## ModelScope Support
+
+Claude Code can be used with [ModelScope](https://modelscope.ai) as an API provider instead of Anthropic's first-party API. ModelScope hosts open-weight models accessible via an Anthropic-compatible endpoint.
+
+### Prerequisites
+
+- A [ModelScope](https://modelscope.ai) account and API token (starts with `ms-`)
+- A model ID available on ModelScope (e.g. `deepseek-ai/DeepSeek-V4-Flash`)
+
+### Option 1: Environment Variables (any OS)
+
+```bash
+export ANTHROPIC_BASE_URL="https://api-inference.modelscope.ai"
+export ANTHROPIC_API_KEY="ms-your-token-here"
+export ANTHROPIC_MODEL="deepseek-ai/DeepSeek-V4-Flash"
+claude
+```
+
+### Option 2: PowerShell Launcher Script (Windows)
+
+```powershell
+.\claude-modelscope.ps1
+```
+
+Prompts for your API key on first run. To specify a custom model:
+
+```powershell
+.\claude-modelscope.ps1 -Model "deepseek-ai/DeepSeek-V4-Flash"
+```
+
+### Option 3: Persistent Settings
+
+Add the variables to `~/.claude/settings.json`:
+
+```json
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api-inference.modelscope.ai",
+    "ANTHROPIC_API_KEY": "ms-your-token-here",
+    "ANTHROPIC_MODEL": "deepseek-ai/DeepSeek-V4-Flash"
+  }
+}
+```
+
+Then run `claude` normally — no flags or scripts needed.
+
+### Verified Models
+
+| Model | Status |
+|-------|--------|
+| `deepseek-ai/DeepSeek-V4-Flash` | ✅ Works |
+| `deepseek-ai/DeepSeek-V4-Pro` | ⚠️ May not support Anthropic streaming format |
+
+---
+
 ## GitPretty Setup
 
 <details>
